@@ -1,1 +1,27 @@
+The file provides a step-by-step guide on extracting data and integrating the code into a Jupyter Notebook using Postman. 
+It covers inspecting a website, capturing network requests, extracting the cURL from an .aspx request, 
+importing it into Postman, reviewing request details, generating Python code, and validating the response.
+
+Extracting Data Like a Pro 🚀
+1️⃣ Open & Inspect 🔍
+- Fire up the website and hit Inspect Element.
+- Dive into the HTML structure to see how things are built.
+
+2️⃣ Network Sleuthing 🌐
+- Switch to the Network tab in Developer Tools.
+- Hunt for the .aspx request—this is where the magic happens.
+- Copy the cURL request from the request details.
+
+3️⃣ Postman Magic ✉️
+- Open Postman and import the copied cURL.
+- Check out the keys and values in the request payload.
+
+4️⃣ Code Like a Boss 🐍
+- Copy the Python code from Postman.
+- Paste it into a Jupyter Notebook.
+
+5️⃣ Run & Validate ✅
+- Execute the request and check the response:
+200 → Success! 🎉
+400 → Oops! Bad Request 🚨
 
