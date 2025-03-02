@@ -25,3 +25,10 @@ Extracting Data Like a Pro 🚀
 200 → Success! 🎉
 400 → Oops! Bad Request 🚨
 
+6️⃣ Make the Request Dynamic 🔄
+Modify the payload to make it dynamic by changing the FromDate and ToDate values.
+Example:
+FromDate=01%2F02%2F2025&txtToDate=02%2F03%2F2025&btnSubmit=%20GO%20
+This allows customization of the date range for analysis as per requirements.
+
+
